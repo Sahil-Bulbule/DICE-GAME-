@@ -5,7 +5,7 @@ A simple Python program that simulates rolling a six-sided dice. Roll the dice a
 Features :- 
 
 Roll a virtual six-sided dice.
-Press Enter to roll.
+Press Enter to roll. 
 Option to roll again or exit.  
 Fun and easy to use. 
  
