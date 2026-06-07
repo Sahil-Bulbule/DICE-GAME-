@@ -7,7 +7,7 @@ Features :-
 Roll a virtual six-sided dice.
 Press Enter to roll.
 Option to roll again or exit.
-Fun and easy to use.
+Fun and easy to use. 
 
 How to Use :-  
 
