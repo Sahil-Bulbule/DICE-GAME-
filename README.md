@@ -13,7 +13,7 @@ How to Use :-
 
 Make sure you have Python 3 installed.
 Download the dice_roller.py file.  
-Open a terminal or command prompt and navigate to the project folder. 
+Open a terminal or command prompt and navigate to the project folder.  
 
 Run the program :-
 
