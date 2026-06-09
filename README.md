@@ -2,7 +2,7 @@
 
 A simple Python program that simulates rolling a six-sided dice. Roll the dice as many times as you like and see what number comes up!
 
-Features :-  
+Features :-   
    
 Roll a virtual six-sided dice. 
 Press Enter to roll.       
