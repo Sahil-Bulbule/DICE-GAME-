@@ -10,7 +10,7 @@ Option to roll again or exit.
 Fun and easy to use.   
     
 How to Use :-    
-  
+   
 Make sure you have Python 3 installed.  
 Download the dice_roller.py file.  
 Open a terminal or command prompt and navigate to the project folder.  
